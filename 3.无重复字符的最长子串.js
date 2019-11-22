@@ -10,8 +10,6 @@
  * @return {number}
  */
 var lengthOfLongestSubstring = function(s) {
-    var start = 0;
-    var end;
     var max = 0;
     var res = '';
     for (var i = 0, len = s.length; i < len; i++) {
