@@ -10,6 +10,7 @@
  * @return {number}
  */
 var lengthOfLongestSubstring = function(s) {
+    var len = s.length;
     return s;
 };
 // @lc code=end
